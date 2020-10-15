@@ -1,0 +1,25 @@
+.all{
+	width: 100vw;
+	height: 90vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.cadastro{
+	width: 50vw;
+	height: 90vh;
+	text-align: center;
+}
+.erro{
+	color: red;
+}
+body{
+	background-size: 100vw 100vh;
+}
+header a{
+  color: white;
+}
+.dropdown-menu a{
+  color: white;
+}

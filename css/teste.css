@@ -1,0 +1,25 @@
+.ajustaTamanhoSlide{
+  margin-left: 15px;
+  width: 75vw;
+  height: 40vh;
+  float: left;
+  text-align: center;
+}
+.ajustaLocaisRamais{
+  float: right;
+  width: 20vw;
+  height: 80vh;
+  overflow: auto;
+}
+body{
+	background-size: 100vw 100vh;
+}
+header{
+  background-color: #F6D14A;
+}
+header a{
+  color: white;
+}
+.dropdown-menu a{
+  color: white;
+}

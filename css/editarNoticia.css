@@ -1,0 +1,24 @@
+.postarNoticia{
+	float: right;
+	width: 75vw;
+	padding: 10px;
+	text-align: center;
+	background-color: white;
+}
+.sidebar-sticky{
+	float:left;
+	width: 20vw;
+	overflow: auto;
+}
+body{
+	background-size: 100vw 100vh;
+}
+header a{
+  color: white;
+}
+.dropdown-menu a{
+  color: white;
+}
+.teste{
+	margin-left: 30vw;
+}

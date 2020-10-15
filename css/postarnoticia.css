@@ -1,0 +1,17 @@
+.postarNoticia{
+	padding: 10px;
+	text-align: center;
+	background-color: white;
+}
+.teste{
+	margin-left: 45vw;
+}
+body{
+	background-size: 100vw 100vh;
+}
+header a{
+  color: white;
+}
+.dropdown-menu a{
+  color: white;
+}
